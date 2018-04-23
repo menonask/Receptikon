@@ -1,1 +1,1 @@
-THIS IS A TEST FILE
+THIS IS A TEST FILE. Other file must be a big file
